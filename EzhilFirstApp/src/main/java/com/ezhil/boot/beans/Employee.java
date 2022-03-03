@@ -7,6 +7,7 @@ public class Employee {
 	private String empFatherName;
 	
 	private boolean myFirstProjectWithSourceTree = true;
+	private String anotherProperty;
 	
 	public Employee(String empId, String empName, String empFatherName) {
 	 
