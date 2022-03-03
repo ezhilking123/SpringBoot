@@ -6,6 +6,7 @@ public class Employee {
 	private String empName;
 	private String empFatherName;
 	
+	private boolean myFirstProjectWithSourceTree = false;
 	
 	public Employee(String empId, String empName, String empFatherName) {
 	 
