@@ -14,7 +14,8 @@ public class EmployeeService {
 	private List<Employee> listofEmp=new ArrayList<> (Arrays.asList(
 			new Employee("10","Ezhlarasan","Selvaraj"),
 			new Employee("20","Thaleswari","Ezhilarasan"),
-			new Employee("30","ThavaYazhisai","Ezhilarasan")
+			new Employee("30","ThavaYazhisai","Ezhilarasan"),
+			new Employee("40", "Iniyan", "Boopalan")
 			));
 	
 public List<Employee> getEmployeeList(){
